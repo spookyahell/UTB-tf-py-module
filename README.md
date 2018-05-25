@@ -33,4 +33,4 @@ Don't forget to modify the `$SESSION_ID` in the module accordingly!
 The way it currently displays the filenames may seem a bit weired at first but this is on purpose. 
 It's so that it can be fairly easily adapted to accept (in a 2nd edition) a list to handle...
 ### Please use english!
-For any questions feel free to open a issue but please use proper english if you do so.
+For any questions feel free to open an issue but please use proper english if you do so.
