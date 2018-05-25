@@ -1,6 +1,10 @@
 # UTB-tf-py-module
 uptobox python3.6 module to transfer files from url while watching the progress
 
+## TODO
+In the near future I plan to:
+- make a script that accepts the object type list:
+Benifit is transferring multiple files simultaneously without multiple instances of a script
 
 ### Python version
 I developed/have tested this script
